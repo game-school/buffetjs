@@ -1,0 +1,15 @@
+{
+  "name": "buffetjs",
+  "scripts": {
+  },
+  "devDependencies": {
+  },
+  "workspaces": [
+    "cors",
+    "custom",
+    "hooks",
+    "icons",
+    "styles",
+    "utils"
+  ]
+}
