@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-import { sizes } from '@buffetjs/styles';
+import { sizes } from 'buffetjs/styles';
 import Icon from '../Icon';
 
 const PrefixIcon = styled(Icon)`

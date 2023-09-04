@@ -6,7 +6,7 @@
 
 import React from 'react';
 import PropTypes from 'prop-types';
-import { Textarea as StyledTextArea } from '@buffetjs/styles';
+import { Textarea as StyledTextArea } from 'buffetjs/styles';
 
 function Textarea(props) {
   return <StyledTextArea {...props} />;

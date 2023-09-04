@@ -7,7 +7,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { get } from 'lodash';
-import { Checkbox } from '@buffetjs/styles';
+import { Checkbox } from 'buffetjs/styles';
 import Icon from '../Icon';
 
 /* eslint-disable jsx-a11y/no-noninteractive-element-interactions */

@@ -19,8 +19,8 @@ import {
   TimePicker as StyledTimePicker,
   TimePickerWrapper,
   TimeList,
-} from '@buffetjs/styles';
-import { useEventListener, useShortcutEffect } from '@buffetjs/hooks';
+} from 'buffetjs/styles';
+import { useEventListener, useShortcutEffect } from 'buffetjs/hooks';
 import Icon from '../Icon';
 
 const MINUTES_IN_HOUR = 60;

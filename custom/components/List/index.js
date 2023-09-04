@@ -7,8 +7,8 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-import { List as ListCompo, ListHeader, Padded } from '@buffetjs/core';
-import { Card } from '@buffetjs/styles';
+import { List as ListCompo, ListHeader, Padded } from 'buffetjs/core';
+import { Card } from 'buffetjs/styles';
 
 function List({
   title,

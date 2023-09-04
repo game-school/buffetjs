@@ -12,7 +12,7 @@ import {
   faPlus,
 } from '@fortawesome/free-solid-svg-icons';
 import { faClock } from '@fortawesome/free-regular-svg-icons';
-import { Icon as StyledIcon } from '@buffetjs/styles';
+import { Icon as StyledIcon } from 'buffetjs/styles';
 
 const iconMap = new Map([
   ['time', faClock],

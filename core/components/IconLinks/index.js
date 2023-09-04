@@ -8,7 +8,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-import { Links as StyledLinks } from '@buffetjs/styles';
+import { Links as StyledLinks } from 'buffetjs/styles';
 import Icon from '../Icon';
 
 function IconLinks({ links }) {

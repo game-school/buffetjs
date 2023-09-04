@@ -7,7 +7,7 @@
 import React, { useCallback } from 'react';
 import PropTypes from 'prop-types';
 
-import { Toggle as StyledToggle, ToggleWrapper } from '@buffetjs/styles';
+import { Toggle as StyledToggle, ToggleWrapper } from 'buffetjs/styles';
 import Label from '../Label';
 
 function Toggle({

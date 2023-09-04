@@ -6,7 +6,7 @@
 
 import React from 'react';
 import PropTypes from 'prop-types';
-import { List as StyledList, LoadingIndicator } from '@buffetjs/styles';
+import { List as StyledList, LoadingIndicator } from 'buffetjs/styles';
 
 import ListRow from '../ListRow';
 import Padded from '../Padded';

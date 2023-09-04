@@ -2,7 +2,7 @@ import React from 'react';
 import { mount } from 'enzyme';
 import moment from 'moment';
 import { act } from 'react-dom/test-utils';
-import { DatePicker, TimePicker } from '@buffetjs/core';
+import { DatePicker, TimePicker } from 'buffetjs/core';
 
 import DateTime from '../index';
 

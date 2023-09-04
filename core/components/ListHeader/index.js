@@ -6,7 +6,7 @@
 
 import React from 'react';
 import PropTypes from 'prop-types';
-import { ListHeader as StyledListHeader } from '@buffetjs/styles';
+import { ListHeader as StyledListHeader } from 'buffetjs/styles';
 import Button from '../Button';
 import Flex from '../Flex';
 import Padded from '../Padded';

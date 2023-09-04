@@ -8,7 +8,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { isFunction } from 'lodash';
 
-import { Label as StyledLabel } from '@buffetjs/styles';
+import { Label as StyledLabel } from 'buffetjs/styles';
 
 function Label(props) {
   const content = (() => {

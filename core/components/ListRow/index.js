@@ -7,7 +7,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-import { ListRow as StyledListRow } from '@buffetjs/styles';
+import { ListRow as StyledListRow } from 'buffetjs/styles';
 
 function ListRow({ cells, onClick }) {
   return (

@@ -1,7 +1,7 @@
 import React from 'react';
 import { mount } from 'enzyme';
 
-import { TableRowEmpty } from '@buffetjs/styles';
+import { TableRowEmpty } from 'buffetjs/styles';
 import TableRow from '../../TableRow';
 import Table from '../index';
 import ActionCollapse from '../ActionCollapse';

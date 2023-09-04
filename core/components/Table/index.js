@@ -11,7 +11,7 @@ import {
   LoadingIndicator,
   Table as StyledTable,
   TableRowEmpty,
-} from '@buffetjs/styles';
+} from 'buffetjs/styles';
 import TableHeader from '../TableHeader';
 import TableRow from '../TableRow';
 import ActionCollapse from './ActionCollapse';

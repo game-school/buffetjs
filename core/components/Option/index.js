@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { Remove } from '@buffetjs/icons';
-import { Option as Wrapper } from '@buffetjs/styles';
+import { Remove } from 'buffetjs/icons';
+import { Option as Wrapper } from 'buffetjs/styles';
 import { upperFirst } from 'lodash';
 import RemoveButton from './RemoveButton';
 

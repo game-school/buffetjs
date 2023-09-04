@@ -7,8 +7,8 @@
 import React, { useEffect, useRef, useState } from 'react';
 import PropTypes from 'prop-types';
 
-import { HeaderTitle, HeaderActions } from '@buffetjs/core';
-import { Header as Wrapper, LoadingBar } from '@buffetjs/styles';
+import { HeaderTitle, HeaderActions } from 'buffetjs/core';
+import { Header as Wrapper, LoadingBar } from 'buffetjs/styles';
 
 function Header({ actions, content, isLoading, stickable, title }) {
   const [isHeaderSticky, setHeaderSticky] = useState(false);

@@ -9,7 +9,7 @@ import PropTypes from 'prop-types';
 import {
   Enumeration as StyledEnumeration,
   EnumerationWrapper,
-} from '@buffetjs/styles';
+} from 'buffetjs/styles';
 
 import Label from '../Label';
 

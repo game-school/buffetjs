@@ -14,7 +14,7 @@ import { DayPickerSingleDateController } from 'react-dates';
 import { faCalendarAlt } from '@fortawesome/free-regular-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
-import { DatePicker as StyledDatepicker } from '@buffetjs/styles';
+import { DatePicker as StyledDatepicker } from 'buffetjs/styles';
 
 import reducer, { initialState } from './reducer';
 

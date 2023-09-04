@@ -17,7 +17,7 @@ import {
   SingleType,
   Text,
   Uid,
-} from '@buffetjs/icons';
+} from 'buffetjs/icons';
 import Div from './Div';
 
 const types = {

@@ -7,7 +7,7 @@
 import React from 'react';
 import RcInputNumber from 'rc-input-number';
 import PropTypes from 'prop-types';
-import { InputNumber as StyledInputNumber } from '@buffetjs/styles';
+import { InputNumber as StyledInputNumber } from 'buffetjs/styles';
 
 function InputNumber({
   autoFocus,

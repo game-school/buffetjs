@@ -20,8 +20,8 @@ import {
   TimePicker,
   Toggle,
   UnknownInput,
-} from '@buffetjs/core';
-import { Description, ErrorMessage, Tooltip } from '@buffetjs/styles';
+} from 'buffetjs/core';
+import { Description, ErrorMessage, Tooltip } from 'buffetjs/styles';
 
 import DateTime from '../DateTime';
 import Wrapper, { IconWrapper } from './Wrapper';

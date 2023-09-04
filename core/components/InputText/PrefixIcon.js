@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { IconText, IconWrapper } from '@buffetjs/styles';
+import { IconText, IconWrapper } from 'buffetjs/styles';
 
 import Icon from '../Icon';
 

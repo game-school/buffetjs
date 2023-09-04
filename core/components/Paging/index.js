@@ -8,7 +8,7 @@ import React from 'react';
 import { Pagination, PaginationItem, PaginationLink } from 'reactstrap';
 import PropTypes from 'prop-types';
 
-import { Paging as StyledPaging } from '@buffetjs/styles';
+import { Paging as StyledPaging } from 'buffetjs/styles';
 import Icon from '../Icon';
 /* eslint-disable react/no-array-index-key */
 

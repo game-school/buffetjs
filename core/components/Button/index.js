@@ -10,8 +10,8 @@ import {
   LoadingIndicator,
   Button as StyledButton,
   colors,
-} from '@buffetjs/styles';
-import { Plus } from '@buffetjs/icons';
+} from 'buffetjs/styles';
+import { Plus } from 'buffetjs/icons';
 import Flex from '../Flex';
 import PrefixIcon from '../PrefixIcon';
 

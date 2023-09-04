@@ -9,7 +9,7 @@ import moment from 'moment';
 import PropTypes from 'prop-types';
 import momentPropTypes from 'react-moment-proptypes';
 import { isEmpty, cloneDeep } from 'lodash';
-import { DatePicker, TimePicker } from '@buffetjs/core';
+import { DatePicker, TimePicker } from 'buffetjs/core';
 import Wrapper from './Wrapper';
 
 const UNITS = ['hour', 'minute', 'second'];

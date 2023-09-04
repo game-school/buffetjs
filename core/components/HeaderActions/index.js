@@ -6,7 +6,7 @@
 
 import React from 'react';
 import PropTypes from 'prop-types';
-import { HeaderActions as Wrapper } from '@buffetjs/styles';
+import { HeaderActions as Wrapper } from 'buffetjs/styles';
 
 import Button from '../Button';
 

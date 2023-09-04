@@ -7,7 +7,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { isFunction, isObject } from 'lodash';
-import { Checkbox, Links as StyledLinks } from '@buffetjs/styles';
+import { Checkbox, Links as StyledLinks } from 'buffetjs/styles';
 import Icon from '../Icon';
 
 function TableRow({

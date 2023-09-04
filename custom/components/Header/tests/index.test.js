@@ -1,7 +1,7 @@
 import React from 'react';
 import { mount } from 'enzyme';
-import { HeaderTitle } from '@buffetjs/core';
-import { LoadingBar } from '@buffetjs/styles';
+import { HeaderTitle } from 'buffetjs/core';
+import { LoadingBar } from 'buffetjs/styles';
 
 import Header from '../index';
 

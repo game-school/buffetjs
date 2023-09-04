@@ -1,6 +1,6 @@
 import React from 'react';
 import { mount } from 'enzyme';
-import { Checkbox, Links as StyledLinks } from '@buffetjs/styles';
+import { Checkbox, Links as StyledLinks } from 'buffetjs/styles';
 
 import TableRow from '../index';
 

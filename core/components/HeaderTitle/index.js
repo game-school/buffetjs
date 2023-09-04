@@ -10,7 +10,7 @@ import { upperFirst } from 'lodash';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faPencilAlt } from '@fortawesome/free-solid-svg-icons';
 
-import { HeaderTitle as Wrapper } from '@buffetjs/styles';
+import { HeaderTitle as Wrapper } from 'buffetjs/styles';
 
 function HeaderTitle({ title, children, cta }) {
   const content = upperFirst(title) || children;

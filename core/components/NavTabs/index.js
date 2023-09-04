@@ -7,8 +7,8 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 import PropTypes from 'prop-types';
-import { Tab as StyledTab, colors } from '@buffetjs/styles';
-import { gradient } from '@buffetjs/utils';
+import { Tab as StyledTab, colors } from 'buffetjs/styles';
+import { gradient } from 'buffetjs/utils';
 
 function NavTabs({ links }) {
   let color = colors.greyLink;

@@ -1,7 +1,7 @@
 import React, { useState, useRef } from 'react';
 import PropTypes from 'prop-types';
 
-import { useClickAwayListener } from '@buffetjs/hooks';
+import { useClickAwayListener } from 'buffetjs/hooks';
 
 import PickerButton from './PickerButton';
 import PickerSection from './PickerSection';

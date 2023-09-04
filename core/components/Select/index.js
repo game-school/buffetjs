@@ -7,7 +7,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import invariant from 'invariant';
-import { Select as StyledSelect } from '@buffetjs/styles';
+import { Select as StyledSelect } from 'buffetjs/styles';
 
 function Select({
   autoFocus,

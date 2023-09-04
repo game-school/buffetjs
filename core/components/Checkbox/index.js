@@ -7,7 +7,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-import { Checkbox as StyledCheckbox, CheckboxWrapper } from '@buffetjs/styles';
+import { Checkbox as StyledCheckbox, CheckboxWrapper } from 'buffetjs/styles';
 import Label from '../Label';
 
 function Checkbox({

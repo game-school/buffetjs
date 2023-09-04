@@ -5,7 +5,7 @@
  */
 
 import styled, { css } from 'styled-components';
-import { colors, sizes } from '@buffetjs/styles';
+import { colors, sizes } from 'buffetjs/styles';
 
 const Wrapper = styled.div`
   position: relative;

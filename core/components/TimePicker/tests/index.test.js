@@ -1,7 +1,7 @@
 import React from 'react';
 import { mount } from 'enzyme';
 
-import { TimePicker as StyledTimePicker } from '@buffetjs/styles';
+import { TimePicker as StyledTimePicker } from 'buffetjs/styles';
 import TimePicker, { timeFormatter } from '../index';
 
 const defaultProps = { name: 'time' };

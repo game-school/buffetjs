@@ -10,7 +10,7 @@ import {
   IconWrapper,
   InputText as Input,
   InputWrapper,
-} from '@buffetjs/styles';
+} from 'buffetjs/styles';
 import Icon from '../Icon';
 import PrefixIcon from './PrefixIcon';
 
