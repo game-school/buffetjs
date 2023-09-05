@@ -1,5 +1,6 @@
 {
   "name": "buffetjs",
+  "main": "index.js",
   "scripts": {
   },
   "dependencies": {
@@ -19,13 +20,5 @@
     "react-with-direction": "^1.4.0",
     "reactstrap": "^9.2.0",
     "styled-components": "^6.0.7"
-  },
-  "workspaces": [
-    "cors",
-    "custom",
-    "hooks",
-    "icons",
-    "styles",
-    "utils"
-  ]
+  }
 }
